@@ -1,5 +1,5 @@
 ---
-title: Second Note
+title: Testing GitHub Custom Domain Issue
 tags: [Test, Notes]
 style: fill
 color: primary

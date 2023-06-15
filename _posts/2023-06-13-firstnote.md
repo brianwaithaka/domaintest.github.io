@@ -1,5 +1,5 @@
 ---
-title: First Note
+title: Testing GitHub Custom Domain Issue
 tags: [Test, Notes]
 style: default
 color: purple
