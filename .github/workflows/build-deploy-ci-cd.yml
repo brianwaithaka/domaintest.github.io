@@ -51,6 +51,6 @@ jobs:
       pages: write 
       id-token: write
     steps:
-      - name: Deployment to GitHub Pages Env
+      - name: Deployment to GitHub Pagess Environment
         id: deployment
         uses: actions/deploy-pages@v2
