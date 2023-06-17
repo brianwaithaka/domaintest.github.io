@@ -1,5 +1,5 @@
 ---
-title: Testing Azure Static Web App Deployment 
+title: Testing Close Pull Request Workflow
 tags: [Test, Notes]
 style: fill
 color: danger
