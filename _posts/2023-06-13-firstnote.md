@@ -1,11 +1,10 @@
 ---
-title: Testing GitHub Custom Domain Issue
+title: Testing Azure Static Web App Deployment 
 tags: [Test, Notes]
-style: default
-color: purple
-description: Testing the description
+style: border
+color: primary
+description: With default configuration
 ---
-
 
 
 ## Testing the first notes made using Markdown
