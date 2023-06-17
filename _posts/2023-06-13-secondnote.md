@@ -1,9 +1,9 @@
 ---
-title: Testing GitHub Custom Domain Issue
+title: Testing Azure Static Web App Deployment 
 tags: [Test, Notes]
 style: fill
-color: primary
-description: Testing the description
+color: danger
+description: With default configuration
 ---
 
 
