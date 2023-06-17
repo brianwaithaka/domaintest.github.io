@@ -7,7 +7,6 @@ description: With default configuration
 ---
 
 
-
 ## Testing the first notes made using Markdown
 
 The quick brown fox jumps over the lazy dog. The quick
